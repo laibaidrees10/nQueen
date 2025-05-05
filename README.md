@@ -16,7 +16,7 @@ The algorithm places queens row by row, checking at each step if the position is
 
 ### Prerequisites
 
-- A C++ compiler like `g++`
+- C++ compiler like `g++`
 
 ### Steps
 
